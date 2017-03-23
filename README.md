@@ -1,2 +1,2 @@
 # hello-world
-just another reposity
+just another reposity to learn something
